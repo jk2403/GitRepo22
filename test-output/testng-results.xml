@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-06T20:15:55 IST" name="Suite" finished-at="2024-06-06T20:15:55 IST" duration-ms="71">
+  <suite started-at="2024-06-07T10:07:52 IST" name="Default suite" finished-at="2024-06-07T10:07:52 IST" duration-ms="80">
     <groups>
     </groups>
-    <test started-at="2024-06-06T20:15:55 IST" name="Test" finished-at="2024-06-06T20:15:55 IST" duration-ms="71">
+    <test started-at="2024-06-07T10:07:52 IST" name="Default test" finished-at="2024-06-07T10:07:52 IST" duration-ms="80">
       <class name="one.TestNGTestDemo">
-        <test-method is-config="true" signature="oneBeforeTest()[pri:0, instance:one.TestNGTestDemo@4a8355dd]" started-at="2024-06-06T20:15:55 IST" name="oneBeforeTest" finished-at="2024-06-06T20:15:55 IST" duration-ms="21" status="PASS">
+        <test-method is-config="true" signature="oneBeforeTest()[pri:0, instance:one.TestNGTestDemo@4a8355dd]" started-at="2024-06-07T10:07:52 IST" name="oneBeforeTest" finished-at="2024-06-07T10:07:52 IST" duration-ms="20" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- oneBeforeTest -->
-        <test-method signature="oneTest()[pri:0, instance:one.TestNGTestDemo@4a8355dd]" started-at="2024-06-06T20:15:55 IST" name="oneTest" finished-at="2024-06-06T20:15:55 IST" duration-ms="6" status="PASS">
+        <test-method signature="oneTest()[pri:0, instance:one.TestNGTestDemo@4a8355dd]" started-at="2024-06-07T10:07:52 IST" name="oneTest" finished-at="2024-06-07T10:07:52 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- oneTest -->
-        <test-method is-config="true" signature="oneAfterTest()[pri:0, instance:one.TestNGTestDemo@4a8355dd]" started-at="2024-06-06T20:15:55 IST" name="oneAfterTest" finished-at="2024-06-06T20:15:55 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="oneAfterTest()[pri:0, instance:one.TestNGTestDemo@4a8355dd]" started-at="2024-06-07T10:07:52 IST" name="oneAfterTest" finished-at="2024-06-07T10:07:52 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- oneAfterTest -->
       </class> <!-- one.TestNGTestDemo -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
